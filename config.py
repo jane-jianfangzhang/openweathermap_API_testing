@@ -5,12 +5,9 @@ class DataConstant:
     city_id ='2147714'  #Sydney
     zip_code = 2000
     threshold_temp = 20
-    expected_statuscd = 200
 
     web_url = "https://openweathermap.org/"
     base_url = "https://openweathermap.org/data/2.5/forecast?id=%s&appid=%s&units=metric" % (city_id, app_id)
-
-
     weather_type = "clear"
 
 
