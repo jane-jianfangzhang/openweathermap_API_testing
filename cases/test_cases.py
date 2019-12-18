@@ -21,7 +21,7 @@ class TestCases:
 
             comvalidation.common_validation(response.status_code, requests.codes.ok)
 
-            # Step3: Special validation base on caseType
+            # Step3: Special validation 
 
             specialvalidation.special_validation(response, self.logging)
 
