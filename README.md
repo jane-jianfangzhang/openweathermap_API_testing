@@ -1,6 +1,6 @@
 # openweathermap_API_testing
 This is a simple API testing for Open Weather Map.
-How to run this test scripts?
+Below are the steps to setup and run the testing scripts.
 
 **Step 1**: Download and install Python3.7. 
 - If you're running Linux, make sure to also install pip.
